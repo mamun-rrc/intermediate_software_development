@@ -1,3 +1,6 @@
+__author__ = "Mamun"
+__version__ = "1.0.0"
+
 from department.department import Department
 
 class Course:
