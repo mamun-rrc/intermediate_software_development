@@ -2,7 +2,7 @@
 Description: Unit tests for the Course class.
 Author: ACE Faculty
 Modified by: {Mamun}
-Date: {Date}
+Date: {08/01/2025}
 Usage: To execute all tests in the terminal execute 
 the following command:
     python -m unittest tests/test_course.py
